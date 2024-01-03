@@ -1,5 +1,3 @@
 # Desafio de projeto Ransomware
 
->Este desafio de projeto faz parte do conteúdo abordado pelo *Santander Bootcamp Cibersegurança*,
->realizado pela [DIO](https://web.dio.me/track/santander-bootcamp-ciberseguranca?tab=about)
->em parceria com o Santander Universidades.
+>Este repositório foi desenvolvido como parte do desafio do projeto intitulado 'Entendendo um Ransomware na Prática com Python', oferecido durante o Santander Bootcamp de Cibersegurança.
